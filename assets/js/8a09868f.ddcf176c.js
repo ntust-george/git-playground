@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgit_playground=self.webpackChunkgit_playground||[]).push([[7],{567:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/git-playground/blog/tags/facebook","allTagsPath":"/git-playground/blog/tags","count":1,"unlisted":false}')}}]);

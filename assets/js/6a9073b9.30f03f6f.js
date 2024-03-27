@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgit_playground=self.webpackChunkgit_playground||[]).push([[4594],{8838:o=>{o.exports=JSON.parse('{"permalink":"/git-playground/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
