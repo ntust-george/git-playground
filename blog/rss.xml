@@ -20,10 +20,9 @@
         </item>
         <item>
             <title><![CDATA[wayne 0715]]></title>
-            <link>https://your-docusaurus-site.example.com/git-playground/blog/first-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/git-playground/blog/first-blog-post</guid>
+            <link>https://your-docusaurus-site.example.com/git-playground/blog/wayne-0715</link>
+            <guid>https://your-docusaurus-site.example.com/git-playground/blog/wayne-0715</guid>
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
