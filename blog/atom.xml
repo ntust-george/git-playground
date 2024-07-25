@@ -22,6 +22,21 @@
         <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[second Blog Post]]></title>
+        <id>https://your-docusaurus-site.example.com/git-playground/blog/second-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/git-playground/blog/second-blog-post"/>
+        <updated>2024-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HELLO ~~~]]></summary>
+        <content type="html"><![CDATA[<p>HELLO ~~~
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Gao Wei</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[wayne 0715]]></title>
         <id>https://your-docusaurus-site.example.com/git-playground/blog/wayne-0715</id>
         <link href="https://your-docusaurus-site.example.com/git-playground/blog/wayne-0715"/>
